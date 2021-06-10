@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jerry0730
-- 👀 I’m interested in  pyton
-- 🌱 I’m currently learning ...pythone
+- 👀 I’m interested in  I study python
+- 🌱 I’m currently learning ...I study python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
